@@ -1,2 +1,2 @@
 # Hello-World
-Start Studing GitHub
+Studing GitHub
